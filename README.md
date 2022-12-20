@@ -4,5 +4,5 @@ A simple noughts and crosses game. The game is played on a 3x3 grid. X starts th
 The game ends when all moves have been used or one of the player wins.
 
 pl.
-Prosta gra w kółko i krzyżyk. Gra toczy się na siatce 3x3. X rozpoczyna grę. Gracze wykonują tury jeden po drugim. Aby umieścić symbol na siatce, po prostu wprowadź żądane współrzędne. Na przykład, jeśli napiszesz „1 1”, umieścisz symbol w lewym górnym rogu siatki.
+Prosta gra w kółko i krzyżyk. Gra toczy się na siatce 3x3. X rozpoczyna grę. Gracze wykonują tury jeden po drugim. Aby umieścić symbol na siatce, po prostu wprowadź pożądane współrzędne. Na przykład, jeśli napiszesz „1 1”, umieścisz symbol w lewym górnym rogu siatki.
 Gra kończy się, gdy wszystkie ruchy zostaną wykorzystane lub jeden z graczy wygra.
